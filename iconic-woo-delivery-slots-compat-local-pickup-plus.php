@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [Local Pickup Plus by SkyVerge]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [Local Pickup Plus by SkyVerge]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and 'Local Pickup Plus' by SkyVerge.
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and 'Local Pickup Plus' by SkyVerge.
+ * Author:          Kadence WP
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-local-pickup-plus
  * Domain Path:     /languages
  * Version:         0.1.0
